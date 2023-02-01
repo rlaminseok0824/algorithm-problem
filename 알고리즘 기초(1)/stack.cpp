@@ -1,5 +1,5 @@
-// https://www.acmicpc.net/problem/10828    stack
-/*
+https://www.acmicpc.net/problem/10828    stack
+
 #include<iostream>
 #include<string>
 #include<vector>
@@ -82,4 +82,3 @@ int main() {
 	}
 	return 0;
 }
-*/
